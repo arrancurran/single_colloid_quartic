@@ -72,7 +72,6 @@ parfor q = 1 : repeats % loop simulation for 'repeats'
   dwell_times_array{ : , q } = dwell_times
   
 end
-
 toc
 positions_array( 1 , : ) = [ ] ; % Trim starting zeros
 
