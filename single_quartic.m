@@ -1,4 +1,4 @@
-clearvars ; close all ; clc;
+clearvars ; close all ; clc ;
 % constants ===============================================================
 k_B = 1.3806503e-23 ; % Boltzman constant [ m ^ 2 kg / s ^ 2 / K ]
 T = 300 ; % Temperature [ K ]
